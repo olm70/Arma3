@@ -1,1 +1,1 @@
-"TemplateId":28,"Stack":750
+"TemplateId":28,"Stack":500
